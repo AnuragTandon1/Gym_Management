@@ -1,0 +1,23 @@
+
+body{
+    
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/833/553/163/brunette-workout-fitness-gym-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+}
+.jan{
+    position: relative;
+    top: 150px;
+    left: 320px;
+    width: 800px;
+    background-color: beige;
+}
+.ja{
+    position: relative;
+    top: 120px;
+    left: 320px;
+    width: 800px;
+    background-color: beige;
+}
